@@ -11,5 +11,3 @@ Feel free to download the HTML file.
 * It's large - and will get larger,....
 
 ---
-
-Current: "Omer v.html.zip"
